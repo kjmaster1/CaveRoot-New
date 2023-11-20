@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#caveroot:can_spawn_cave_root",
+  "features": "caveroot:cave_root",
+  "step": "underground_decoration"
+}

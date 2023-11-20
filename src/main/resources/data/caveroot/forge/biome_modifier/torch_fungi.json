@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#caveroot:can_spawn_torch_fungi",
+  "features": "caveroot:torch_fungi",
+  "step": "underground_decoration"
+}

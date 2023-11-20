@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "caveroot:block/torch_spore"
+  }
+}

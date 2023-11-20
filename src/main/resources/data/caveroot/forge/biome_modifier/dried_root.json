@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#caveroot:can_spawn_dried_root",
+  "features": "caveroot:dried_root",
+  "step": "underground_decoration"
+}
