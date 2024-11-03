@@ -10,7 +10,7 @@ public class CaveRootItem extends BaseItem {
     public CaveRootItem() {
         super(new Properties()
                 .food(
-                        (new FoodProperties.Builder()).nutrition(3).saturationMod(0.6F).effect(() -> new MobEffectInstance(MobEffects.DIG_SPEED, 60, 0), 0.5F).build()
+                        (new FoodProperties.Builder()).nutrition(3).saturationMod(0.6F).effect(() -> new MobEffectInstance(MobEffects.DIG_SPEED, 1200, 1), 0.75F).build()
                 )
         );
     }
